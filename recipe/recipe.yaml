@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "3.13.0"
+  version: "3.14.0"
 
 package:
   name: guard-core
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/g/guard-core/guard_core-${{ version }}.tar.gz
-  sha256: 8da4cb27dd61546f8a068a83c6edc0856e183ef8147afcbcb5e49ea920cc36b5
+  sha256: 41fdf7c608e1cf5ea064ee833495ba93f7d3fc8d9f3cec1d2af5bd081abb92bd
 
 build:
   number: 0
